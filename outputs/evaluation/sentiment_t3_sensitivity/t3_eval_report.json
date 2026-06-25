@@ -1,0 +1,67 @@
+{
+  "generated_at_utc": "2026-05-28T04:48:29.931633+00:00",
+  "eval_type": "step8_primary_t3_mini_iaa",
+  "model_name": "5CD-AI/Vietnamese-Sentiment-visobert",
+  "phase55_tag": "phase55_tier23_001",
+  "output_tag": "phase55_tier23_001_t3_human",
+  "n_clauses": 120,
+  "inference_unit": "clause (one segment per row)",
+  "gold_source": "[original research workspace]/tier3_mini_iaa_gold_v1.csv",
+  "adjudication_policy": "consensus; disagreement tie-break to sentiment_polarity_hint",
+  "iaa_human": {
+    "kappa_overall": 0.9624,
+    "agreement_rows": 117,
+    "disagreement_rows": 3
+  },
+  "primary_metrics": {
+    "macro_f1": 0.5021,
+    "f1_neg": 0.6197,
+    "recall_neg": 0.5641
+  },
+  "per_class": {
+    "NEGATIVE": {
+      "precision": 0.6875,
+      "recall": 0.5641,
+      "f1": 0.6197,
+      "tp": 22,
+      "fp": 10,
+      "fn": 17
+    },
+    "NEUTRAL": {
+      "precision": 0.4348,
+      "recall": 0.2273,
+      "f1": 0.2985,
+      "tp": 10,
+      "fp": 13,
+      "fn": 34
+    },
+    "POSITIVE": {
+      "precision": 0.4615,
+      "recall": 0.8108,
+      "f1": 0.5882,
+      "tp": 30,
+      "fp": 35,
+      "fn": 7
+    }
+  },
+  "confusion_matrix": {
+    "NEGATIVE": {
+      "NEGATIVE": 22,
+      "NEUTRAL": 8,
+      "POSITIVE": 9
+    },
+    "NEUTRAL": {
+      "NEGATIVE": 8,
+      "NEUTRAL": 10,
+      "POSITIVE": 26
+    },
+    "POSITIVE": {
+      "NEGATIVE": 2,
+      "NEUTRAL": 5,
+      "POSITIVE": 30
+    }
+  },
+  "agreement_with_gold": 62,
+  "parse_errors": 0,
+  "low_confidence_clauses": 4
+}

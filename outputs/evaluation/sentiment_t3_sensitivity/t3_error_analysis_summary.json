@@ -1,0 +1,18 @@
+{
+  "generated_at_utc": "2026-05-28T04:56:26.021645+00:00",
+  "eval_tag": "phase55_tier23_001_t3_human",
+  "total_clauses": 120,
+  "misclassified": 58,
+  "min_cases_required": 30,
+  "meets_min_cases": true,
+  "error_type_counts": {
+    "NEU_as_POS": 26,
+    "NEG_as_POS": 9,
+    "NEU_as_NEG": 8,
+    "NEG_as_NEU": 8,
+    "POS_as_NEU": 5,
+    "POS_as_NEG": 2
+  },
+  "low_confidence_errors": 3,
+  "output_file": "[original research workspace]/t3_error_analysis.csv"
+}

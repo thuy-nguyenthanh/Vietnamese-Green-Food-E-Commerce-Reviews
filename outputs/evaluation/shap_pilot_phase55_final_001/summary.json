@@ -1,0 +1,77 @@
+{
+  "run_tag": "phase55_final_001",
+  "generated_at_utc": "2026-05-28T04:57:05.310991+00:00",
+  "target_definition": "rating_star <= 3 (independent of model predictions)",
+  "target_leakage_note": "rating_star excluded from feature matrix",
+  "rows_train": 374,
+  "rows_test": 64,
+  "metrics_primary": {
+    "pr_auc": 0.794047619047619,
+    "f1_non_positive": 0.4444444444444444,
+    "n_test": 64,
+    "n_positive_class": 6,
+    "roc_auc": 0.9712643678160919
+  },
+  "sensitivity_unweighted_train": {
+    "pr_auc": 0.7876373626373626,
+    "f1_non_positive": 0.5,
+    "n_test": 64,
+    "n_positive_class": 6,
+    "roc_auc": 0.9683908045977012
+  },
+  "bootstrap_n": 500,
+  "top5_features_shap_ci": [
+    {
+      "feature": "prob_neg",
+      "mean_abs_shap": 0.03877403846153847,
+      "ci95_low": 0.023732421875000003,
+      "ci95_high": 0.05817112379807692
+    },
+    {
+      "feature": "prob_pos",
+      "mean_abs_shap": 0.02289663461538462,
+      "ci95_low": 0.014430889423076925,
+      "ci95_high": 0.0334110576923077
+    },
+    {
+      "feature": "text_length",
+      "mean_abs_shap": 0.021556490384615382,
+      "ci95_low": 0.01359735576923077,
+      "ci95_high": 0.03176592548076922
+    },
+    {
+      "feature": "sentiment_mean_weighted",
+      "mean_abs_shap": 0.010661057692307695,
+      "ci95_low": 0.005679537259615385,
+      "ci95_high": 0.01824834735576923
+    },
+    {
+      "feature": "share_A1_product",
+      "mean_abs_shap": 0.008137019230769229,
+      "ci95_low": 0.004388671875,
+      "ci95_high": 0.013119290865384613
+    }
+  ],
+  "feature_columns": [
+    "num_sentences",
+    "num_pos",
+    "num_neg",
+    "num_neu",
+    "sentiment_mean_weighted",
+    "avg_confidence",
+    "has_mixed",
+    "prob_pos",
+    "prob_neu",
+    "prob_neg",
+    "share_A1_product",
+    "share_A2_label",
+    "share_A3_logistics",
+    "share_A4_service",
+    "share_A5_price",
+    "share_OOD",
+    "ood_rate",
+    "num_clauses_aspect",
+    "analysis_weight_final",
+    "text_length"
+  ]
+}

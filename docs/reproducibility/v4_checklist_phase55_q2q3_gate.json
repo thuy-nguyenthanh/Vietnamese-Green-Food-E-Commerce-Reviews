@@ -1,0 +1,51 @@
+{
+  "generated_at_utc": "2026-05-28T07:00:00+00:00",
+  "docs_sync_utc": "2026-05-28T14:30:00+07:00",
+  "reference": "Giai_phap_Hybrid_Pipeline_BERTopic_ViSoBERT_v4.md §0.0-0.5, §13; docs/PHASE_G_TECH_ECON_BACKLOG.md; docs/MANUSCRIPT_Q3_*.md",
+  "terminology": "audit_lane_T2_T3 != phase55_Tier_1_2_3; RQ1_primary=Phase_G_silver_not_BERTopic",
+  "supersedes": "v3_checklist_phase55_q3_gate.json",
+  "publication_gate": "journal_Q2_Q3_hybrid_minimum",
+  "methodology_ssot": "Giai_phap_Hybrid_Pipeline_BERTopic_ViSoBERT_v4.md",
+  "phase_g_tech_econ": {
+    "funnel_artifact": { "status": "done", "evidence": "Step05_SSOT/Datas/publication/phase55_final_001/funnel_table.json" },
+    "bootstrap_ci_t2_t3": { "status": "done", "evidence": "T2/T3 bootstrap_ci.json" },
+    "descriptive_analytics_silver": { "status": "done", "evidence": "descriptive_analytics_summary.json n=1742" },
+    "deployment_analytics_appendix": { "status": "done", "evidence": "deployment/deployment_analytics_summary.json" },
+    "rq_reframe_v4": { "status": "done", "evidence": "v4 §0.2 tech-econ RQ1-RQ4" },
+    "v4_methodology_doc": { "status": "done", "evidence": "Giai_phap_Hybrid_Pipeline_BERTopic_ViSoBERT_v4.md" },
+    "managerial_implications_section": { "status": "done", "evidence": "MANUSCRIPT_Q3_METHODS_RESULTS_DISCUSSION.md" },
+    "error_cases_appendix": { "status": "done", "evidence": "docs/MANUSCRIPT_Q3_APPENDIX_ERROR_CASES.md" },
+    "audit_effort_summary": { "status": "done", "evidence": "audit_effort_summary.json" }
+  },
+  "phase55": {
+    "tier1_neg18_qc100": { "status": "done", "evidence": "run_neg_boost_001 + tier1_neg18_human_qc_template.csv" },
+    "tier2_spotcheck_20pct": { "status": "done", "evidence": "tier2_spotcheck 11/11" },
+    "tier3_mini_iaa_kappa": { "status": "done", "evidence": "iaa_report.json kappa_overall=0.9624" },
+    "ssot_merge_resplit": { "status": "done", "evidence": "phase55_final_001" },
+    "cohort_b_neg_target_350": { "status": "not_met", "evidence": "NEG extended=234" },
+    "cohort_b_train_neg_280": { "status": "not_met", "evidence": "train NEG=212" }
+  },
+  "step6": {
+    "exploratory_only": { "status": "done", "evidence": "Jaccard=0.588; no taxonomy main claim" },
+    "human_topic_audit": { "status": "artifact_generated", "human_acceptance_met": false }
+  },
+  "step7": {
+    "t2_holdout_primary": { "status": "done", "macro_f1": 0.4584, "bootstrap_ci": "[0.4022, 0.5106]" },
+    "legacy_overlap_forbidden_main": { "status": "documented", "macro_f1": 0.8143 }
+  },
+  "step8": {
+    "zero_shot_primary": { "status": "done", "macro_f1": 0.5021, "bootstrap_ci": "[0.412, 0.5821]" },
+    "focal_ablation": { "status": "appendix_only", "primary_model": false },
+    "mcnemar_t3": { "status": "done", "evidence": "TF-IDF 0.85 vs ViSoBERT 0.52" }
+  },
+  "step9": {
+    "independent_target": { "status": "done", "pr_auc": 0.794, "target": "rating_star<=3" },
+    "priority_matrix_guardrail": { "status": "done" }
+  },
+  "publish_gate": {
+    "ready_for_manuscript_submit": true,
+    "non_sota_framing": true,
+    "forbidden_claims_review": "PASS",
+    "methodology_doc": "v4.0"
+  }
+}

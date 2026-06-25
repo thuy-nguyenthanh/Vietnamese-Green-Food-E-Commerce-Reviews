@@ -1,0 +1,298 @@
+﻿clause_id_final,clause_text,label_gold,label_pred,agree
+7.79_c10,cực kỳ đáng tiền.o,A5_price,A5_price,True
+54.1288_c2,mình thấy uống rễ ngủ hơn,A1_product,A1_product,True
+45.1517_c7,shop giải thích rằng bên shop sấy mộc sấy mộ liên quan gì đến quả to quả nhỏ đâu nhỉ,A4_service,A4_service,True
+72.34_c4,đóng gói cẩn thận,A3_logistics,A3_logistics,True
+28.1278_c2,"hạt thì ngon, đều, sạch sẽ",A1_product,A1_product,True
+12.33_c9,mìnlh sẽ giới thiệu cho bạn bè và quay lại mua lần sau,A4_service,A4_service,True
+14.1346_c5,mua được ngày sale ưng lại càng ưng hơn,A5_price,A1_product,False
+68.1311_c2,"đẹp lắm nha cả nhà,",A1_product,A1_product,True
+71.1717_c1,"mì chũ rau củ tự nhiên 1kg orgafood, đặc sản bắc giang, mì ngũ sắc rau củ số 1 việt nam, eatclean ăn kiêng giảm cân",A2_label,A2_label,True
+63.1032_c1,nếu chọn cơ bạn có thể thử chuyển sang bún ít calo mà vẫn nhiều dinh dưỡng,A1_product,A1_product,True
+65.1732_c8,7.bắp cải luộc nước luộc rau,OOD,OOD,True
+74.927_c8,"làm tui đọc đánh giá tưởng uống kinh khủng lắm, cơ mà tui lại thấy cũng ngon d",A1_product,A5_price,False
+14.1297_c6,không làm mình thất vọng,A1_product,A1_product,True
+85.577_c1,bé hợp tác sẽ ủng hộ lần sau,A4_service,A4_service,True
+87.924_c1,được tự nhiên sản phẩm,A1_product,A2_label,False
+8.17_c4,dễ ăn,A1_product,A1_product,True
+67.1369_c2,vừa ít calo,A1_product,A1_product,True
+45.47_c1,táo thơm mùi tự nhiên,A1_product,A1_product,True
+12.1346_c9,cảm ơn shop,A4_service,A4_service,True
+24.2874_c1,gaio hàng nhanh,A3_logistics,A3_logistics,True
+105.1083_c1,giống mô tả,A1_product,A2_label,False
+24.832_c4,mình đặt 3 loại nhưng bao bì của loại đen hữu cơ nên hơi thắc mắc nhưng shop đã giải đáp là vì hết hộp của 2 loại kia,A2_label,A2_label,True
+45.711_c10,mình sẽ ủng hộ shop lâu dài và giới thiệu cho bạn bè,A4_service,A4_service,True
+24.278_c1,"onfod cam kết - sản phẩm chất lượng, đảm bảo an toàn vệ sinh thực phẩm",A2_label,A2_label,True
+1.86_c4,"gói hành cực chuẩn chỉnh, cẩn thận",A3_logistics,A3_logistics,True
+78.1_c5,được tặng hũ nhỏ vị nguyên bản,A1_product,A4_service,False
+12.7_c3,giao thùng hàng đóng gói cẩn thận,A3_logistics,A3_logistics,True
+74.262_c10,dịch vụ khách hàng rất tốt,A4_service,A4_service,True
+63.759_c2,gao lứt đỏ dễ ăn,A1_product,A1_product,True
+88.25_c7,trà uống ngon,A1_product,A1_product,True
+28.1079_c1,bé nhà mình mới ăn dặm được nên mua cái này thấy ăn giỏi lắm mua về cho bé ăn dặm yên tâm hẳn,A1_product,A1_product,True
+1.8_c3,mình rất thích cách đóng hàng của shop,A3_logistics,A3_logistics,True
+43.29_c4,hợp vệ sinh an toàn thực phẩm..trông rất tuyệt vời bắt mắt,A2_label,A2_label,True
+54.775_c2,uống vô cũng có cảm giác buồn ngủ,A1_product,A1_product,True
+105.127_c1,"mùi vị của gạo lứt, dễ uống",A1_product,A1_product,True
+20.977_c3,nhưng mình đã rất thật vọng khi sử dụng sản phẩm của shop,A1_product,A4_service,False
+47.763_c7,thất vọng nha,A1_product,A1_product,True
+45.2034_c2,vô vị,A1_product,A1_product,True
+27.78_c6,nói chung là bé nhà mình không có thích,A1_product,A1_product,True
+87.1136_c8,"hy vọng cả 2 món đều ngon, không làm thất vọng để có thể tiếp tục mua tiếp",A1_product,A1_product,True
+12.8_c5,nên hàng nguyên vẹn không vỡ gãy hay mất chân không,A3_logistics,A3_logistics,True
+64.1194_c8,thất vọng,A1_product,A1_product,True
+105.127_c2,bỏ thêm đá uống thanh mát,A1_product,A1_product,True
+65.196_c3,hữu cơ,A2_label,A2_label,True
+47.2245_c2,được cái nó uy tín hơn loại trôi nổi,A1_product,A1_product,True
+6.1531_c1,"sản phẩm đúng với mô tả của sốp, khôgn có điểm nào để chê hết cả",A1_product,A2_label,False
+45.38_c3,được lựa chọn các quả đều,A1_product,A1_product,True
+56.106_c3,tot suc khoe đối tượng sử dụng:tat ca moi nguoi,A1_product,A1_product,True
+70.749_c3,chấtt lượng sản phẩm rất okk ngon lắm luônn á m.n,A1_product,A1_product,True
+74.717_c4,lá búa dằn điều 2 mặt khi chín thịt sẽ mềm ngon không bị cứng ướp thịt : nước mắm ngon xíu bột ngọt xíu tiêu xíu tương ớt xíu ngủ vị hương xíu mật ong nước hành tỏi băm nhuyễn ướp 30 phút bắt chảo lên cho thịt vào áp chảo điều 2 mặt cho thịt hơi cháy cạnh rồi cho hết phần nước ướp vào nấu lửa vừa khi nước ướp thắm gần hết vô thịt thì cho nước dừa tươi vào và sâm sấp mặt thịt vặn lửa vừa nấu đến khi nước dừa rút hết vô thịt,OOD,A1_product,False
+45.2034_c3,đặt táo sz trung mà bé tí tẹo,A1_product,A5_price,False
+47.35_c5,khác thương hiệu thôi mà giá lại rất mềm,A5_price,A5_price,True
+69.657_c1,hương vị:good,A1_product,A1_product,True
+94.1798_c1,hương vị:oki,A1_product,A1_product,True
+85.2_c6,date các thứ còn xa,A1_product,A1_product,True
+88.25_c4,đủ hàng và khi hết hàng vẫn thông báo bù và tặng thêm quà cho mình,A4_service,A4_service,True
+68.841_c5,"hương vị thì không ngon, rong biển đắng ngắt",A1_product,A1_product,True
+70.88_c3,giao hàng nhanh,A3_logistics,A3_logistics,True
+24.263_c8,bảo hành 1 tháng theo chính sách của shopee - khi mẫu lỗi do nhà sản xuất - khi giao sai size sai mẫu khách đã đặt hàng - khi,A4_service,A4_service,True
+78.12_c2,cân bằng lại nội tiết,A1_product,A1_product,True
+54.903_c2,dễ pha,A1_product,A1_product,True
+65.1564_c1,dễ ăn,A1_product,A1_product,True
+88.25_c8,rất thiên nhiên và có thêm cỏ ngọt nên uống rất tự nhiên,A1_product,A1_product,True
+24.278_c8,bảo hành 1 tháng theo chính sách của shopee - khi mẫu lỗi do nhà sản xuất - khi giao sai size sai mẫu khách đã đặt hàng - khi,A4_service,A4_service,True
+7.208_c12,giá hợp lý,A5_price,A5_price,True
+16.22_c3,gạo sạch sẽ không lỗi,A1_product,A1_product,True
+89.335_c2,ăn thấy bé cũng hợp tác,A1_product,A1_product,True
+69.1_c4,đóng gói cẩn thận,A3_logistics,A3_logistics,True
+1.28_c4,hàng chất lượng,A1_product,A1_product,True
+24.61_c3,shop giao hàng rất nhanh,A3_logistics,A3_logistics,True
+74.2188_c1,bọc hàng siêu cẩn thận với 3 lớp chống sốc,A3_logistics,A3_logistics,True
+89.341_c1,hạt kê nếp vàng dùng nấu chung với cháo cho bé bổ sung dinh dưỡng,A1_product,A1_product,True
+89.82_c7,đảm bảo thức ăn còn nóng,A3_logistics,A1_product,False
+67.1615_c2,số lượng mì phù hợp cho 1 người ăn 1 bữa,A1_product,A1_product,True
+74.412_c8,hihi ai ngờ nhận hàng shop không làm mình thất vọng nha,A3_logistics,A3_logistics,True
+55.4_c1,trà kim tiền thảo râu mèo thiên mộc uống mát,A1_product,A1_product,True
+85.244_c2,"tặng mọi người bài thơ yêu là chết ở trong lòng một ít vì mấy khi yêu mà chắc được yêu cho rất nhiều song nhận chẳng bao nhiêu người ta phụ, hoặc thờ ơ, chẳng biết phút gần gũi cũng như giờ chia biệt tưởng trăng tàn, hoa tạ, với hồn tiêu vì mấy khi yêu mà chắc được yêu - yêu, là chết ở trong lòng một ít họ lạc lối giữa u sầu mù mịt những người si theo dõi dấu chân yêu và cảnh đời là sa mạc vô liêu và tình ái là sợi dây vấn vít yêu, là chết ở trong lòng một ít",OOD,OOD,True
+7.861_c1,gạp lứt ăn mgon,A1_product,A1_product,True
+24.263_c3,1 đổi 1 trong vòng 7 ngày kể từ khi nhận hàng nếu lỗi do nhà sản xuất,A4_service,A4_service,True
+16.63_c1,"gạo lứt v còn nguyên cám, chứa nhiều chất dinh dưỡng, hạt gạo có màu vàng nâu",A1_product,A1_product,True
+92.17_c3,tiện sử dụng,A1_product,A1_product,True
+89.8_c10,đóng gói cẩn thận nên sản phẩm không bị móp méo hay hư hỏng,A3_logistics,A3_logistics,True
+83.31_c1,đung với mô tả,A1_product,A2_label,False
+24.2725_c1,"hương vị:ok bao bì mẫu mã:ok các công cụ đánh giá các trang web như fakespot và reviewmeta sử dụng thuật toán để phân tích đánh giá và phát hiện những đánh giá có khả năng là giả. các công cụ này cung cấp đánh giá tổng thể về tính xác thực của đánh giá. kiểm tra những review chân thực của khách hàng thực: trên các nền tảng như shopee mall, đánh giá từ những người mua hàng xác thực thường được coi là đáng tin cậy vì họ đã xác nhận rằng người viết đánh giá thực sự đã mua sản phẩm. so sánh trên nhiều nền tảng: tìm sự nhất quán trong đánh giá trên các trang web khác nhau. nếu các đánh giá trên một nền tảng khác biệt đáng kể so với các nền tảng khác, hãy nghiên cứu thêm. sử dụng trực giác: tin vào cảm nhận của bạn. nếu bạn có linh cảm không tốt, hoặc còn nghi hoặc, hãy nghiên cứu kỹ trước khi đưa ra quyết định mua hàng",OOD,OOD,True
+65.1331_c9,"sau đó gặp được vũ nương, trương sinh lập đàn giải oan cho vợ",OOD,A1_product,False
+94.8_c4,"bánh tráng thơm, vị đậm đà, cay vừa miệng, gói sạch sẽ không dính dầu",A1_product,A1_product,True
+65.1622_c1,"bao bì mẫu mã:đẹp hương vị:ngon khi sử dụng bún gạo lứt ngũ sắc sẽ giúp hệ tiêu hóa hoạt động linh hoạt hơn do trong bún có hàm lượng chất xơ dồi dào có tác dụng nhuận tràng, chống táo bón, khó tiêu. giúp phòng ngừa các bệnh về tiểu đường và máu nhiễm mỡ do thành phần chính của bún ngũ sắc là gạo lứt. gạo lứt có thể làm giảm đi lượng cholesterol xấu và làm tăng lượng cholesterol tốt. bún gạo lứt ngũ sắc cũng là một trong những loại bún hỗ trợ giảm cân rất tốt do tinh bột trong bún là tinh bột chậm. khi sử dụng tinh bột chậm sẽ làm bạn no lâu hơn, tránh cảm giác thèm ăn vặt. ngăn ngừa tình trạng loãng xương, thoái hóa khớp nhờ vào hàm lượng magie và canxi vô cùng dồi dào. chất sắt có trong gạo lứt làm bún rất tốt cho máu huyết",A1_product,A1_product,True
+67.1058_c3,"nấu bún, xào, trộn đều được",A1_product,A1_product,True
+74.927_c9,"300ml thêm nửa gói bột trái cây là bao thơm ngon luôn,",A1_product,A1_product,True
+72.72_c5,lần này đơn của mình bao nui bị vỡ đáy do vận chuyển,A3_logistics,A3_logistics,True
+65.787_c1,gia ca phai chang,A5_price,A5_price,True
+6.1994_c9,"có thể nói, gạo lứt đen là siêu thực phẩm của những ai yêu sức khỏe và dáng đẹp vừa tốt cho tim mạch, vừa giúp no lâu mà không sợ tăng cân",A1_product,OOD,False
+56.738_c3,"chè bắp, chè đậu xanh bông cau, chè lục cà sá, chè chuối,.. đều rất hấp dẫn và nóng hổi nha",A1_product,A1_product,True
+64.439_c3,hạt thì có hạt to nhỏ lẫn nhau,A1_product,A1_product,True
+72.529_c2,nếu bạn là người muốn ăn nhanh gọn lẹ thì những em này không hợp đâu nha vì nấu và ngâm khá lâu,A1_product,A1_product,True
+54.903_c1,dễ uống,A1_product,A1_product,True
+95.498_c7,cái nào chẳng giòn dễ vỡ,A1_product,A1_product,True
+71.7_c5,giá cả thì phù hợp,A5_price,A5_price,True
+24.278_c9,giao thiếu hàng - hỗ trợ đổi trả nếu sản phẩm không giống hình,A3_logistics,A3_logistics,True
+21.222_c1,đậu nành hữu cơ nên đảm bảo được an toàn cho sức khỏe,A2_label,A2_label,True
+69.17_c3,hạt nở đều,A1_product,A1_product,True
+35.86_c9,rất đáng tiền,A5_price,A5_price,True
+54.41_c1,mẫu mã đẹp,A1_product,A2_label,False
+78.241_c4,nên mình lựa vị dứa xoài trộm vía ăn được,A1_product,A1_product,True
+34.15_c9,bao bì mẫu mã:mình check mã vạch thì đúng là hàng nhập 100 hữu cơ,A2_label,A2_label,True
+114.42_c11,giao đủ số lượng,A3_logistics,A3_logistics,True
+24.174_c4,không bị móp méo hay hư hỏng trong quá trình vận chuyển,A3_logistics,A1_product,False
+14.701_c2,đủ số lượng đúng sản phẩm,A1_product,A1_product,True
+11.975_c3,nhưng mình đã rất thật vọng khi sử dụng sản phẩm của shop,A1_product,A4_service,False
+43.345_c8,hihi ai ngờ nhận hàng shop không làm mình thất vọng nha,A3_logistics,A3_logistics,True
+78.162_c3,"tiêu hóa:de tieu hoa, tieu hoa tot",A1_product,A1_product,True
+88.1715_c1,hương vị:dễ uống,A1_product,A1_product,True
+47.763_c4,nhiều quả cắn ra có đốm mốc như hình,A1_product,A1_product,True
+112.503_c1,ăn được,A1_product,A1_product,True
+28.1548_c1,hạt này nhiều chất dinh dưỡng phù hợp cho các bé lắm,A1_product,A1_product,True
+89.335_c1,mua về trộn với cháo cho bé ăn có thêm dinh dưỡng,A1_product,A1_product,True
+8.1_c2,loại túi giấy phù hợp với giá tiền,A5_price,A5_price,True
+28.1155_c1,hạt dinh dưỡng - hạt đậu lăng đỏ thấy trên mạng các mẹ nấu ăn dặm nhiều nên mua nấu thử,A1_product,A1_product,True
+54.775_c1,như mô tả,A1_product,A2_label,False
+74.2717_c2,được tặng thim cái thước dây nựa,A4_service,A4_service,True
+67.926_c8,"tuy nhiên, nếu có một điểm cần cải thiện, có lẽ là thời gian giao hàng có vẻ hơi lâu một chút",A3_logistics,A3_logistics,True
+69.599_c4,pha với nhiều loại bột uống giảm cân đẹp da,A1_product,A1_product,True
+28.2959_c1,hạt oce nha mn,A1_product,A1_product,True
+72.72_c3,không ngờ hủ tiếu gạo lứt mà ngon đến vậy,A1_product,A1_product,True
+24.579_c2,giao hàng ok,A3_logistics,A3_logistics,True
+11.975_c1,lần đầu mình mua sản của shop rất là ok,A4_service,A4_service,True
+88.1775_c1,hương vị:tự nhiên,A1_product,A1_product,True
+75.655_c9,chất lượng quá tệ,A1_product,A1_product,True
+73.1014_c1,đúng theo mô tả,A1_product,A2_label,False
+14.86_c9,mìnlh sẽ giới thiệu cho bạn bè và quay lại mua lần sau,A4_service,A4_service,True
+78.162_c1,độ dễ ăn:rat de an,A1_product,A1_product,True
+14.33_c9,mìnlh sẽ giới thiệu cho bạn bè và quay lại mua lần sau,A4_service,A4_service,True
+65.1331_c5,"khi trương sinh trở về, hay tin mẹ mất mà đau buồn",OOD,A1_product,False
+1.28_c6,"shop gói hàng cẩn thận lắm, có cả phiếu bảo hàng",A3_logistics,A3_logistics,True
+2.164_c2,gói hàng kĩ càng,A3_logistics,A3_logistics,True
+89.8_c6,kích thước vừa vặn,A1_product,A1_product,True
+34.15_c6,nhưng vì sức khỏe mình vẫn mua hàng hữu cơ từ shop,A2_label,A2_label,True
+54.729_c1,trà hoa cúc mua cho bé 8y đến lớp uống để dễ ngủ trưa,A1_product,A1_product,True
+24.278_c3,1 đổi 1 trong vòng 7 ngày kể từ khi nhận hàng nếu lỗi do nhà sản xuất,A4_service,A4_service,True
+24.579_c8,có cả thư cảm ơn dễ thương ghê gớm ý,A4_service,A1_product,False
+43.219_c5,với mình có bỏ đường vô nữa mà uống không có vị gì hết,A1_product,A1_product,True
+24.263_c4,"hàng luôn có sẵn, đóng gói ngay khi nhận được đơn",A3_logistics,A3_logistics,True
+59.372_c1,sản phẩm oke,A1_product,A1_product,True
+16.22_c5,"cơm nấu lên ăn ngọt, nhai kỹ bùi ngon, cả ba mẹ và vợ mình đều ăn được và khen",A1_product,A1_product,True
+65.1331_c2,"nhưng thất học, hay ghen cưới về làm vợ",OOD,A1_product,False
+65.1694_c1,"công thức làm nước chấm thần thánh cho đồ nướng, hấp luộc, hải sản. EMOJI_POS nguyên liệu: - 40g muối hột hoặc 60g bột canh - 60g đường phèn hoặc đường cát - 150g sữa đặc - 6-7 quả ớt xiêm - 15g bột ngọt - 90g nước cốt tắc - 60g nước cốt chanh - 5-6 lá chanh nếu mọi người thích mùi thơm thì cho nước chanh vàng và xíu vỏ chanh vàng . không đắng mà mùi thơm lắm. EMOJI_POS cách làm: tắc cắt đôi, vắt lấy nước, bỏ hạt. ớt sừng rửa sạch, bổ đôi, bỏ hạt, cho vào cối. lá chanh bỏ sống cho đỡ đắng cho tiếp đường- muối- sữa- lá chanh- nước cốt tắc- nước cố chanh vào, xay nhuyễn. nêm lại tuỳ khẩu vị, ai thích thì cho thêm ít ớt bột vào. cho hh muối ớt đỏ vào hũ thuỷ tinh đậy kín nắp cất vào ngăn mát tủ lạnh dùng dần. chúc mọi người thành công. _st_",OOD,OOD,True
+67.223_c1,"giảm bạch cầu, cần xin huyết thanh tại hà nội mình rối quá nên mượn tạm bài của các bạn chủ khác ạ bé nhà mình bị giảm bạch cầu, mình thật sự cần xin huyết thanh của các bé đã khỏi bệnh để cứu bé ạ. mình sẽ gửi hậu tạ và chịu 100 các chi phí liên quan. cả nhà có ai nuôi mèo hoặc biết có bé nào đã khỏi thì giúp mình với ạ EMOJI_NEG mình cần tìm gấp: - bé mèo trên 3kg - tiêm phòng đầy đủ. - đã từng bị và chữa khỏi bệnh giảm bạch cầu. mình thật sự rất cần được giúp đỡ. bé giống như một thành viên trong gia đình, nhà mình nuôi từ khi đẻ ra, em bị đủ thứ bệnh nhưng luôn ngoan ngoãn và tình cảm nên thương lắm. cảm ơn các bạn đã đọc và mong các bạn share bài giúp mình với ạ. liên hệ: [PHONE] hường hoặc inb cho mình với ạ",OOD,OOD,True
+56.4_c4,mua gói 100 túi lọc dùng rất tiện,A1_product,A1_product,True
+27.78_c1,sau khi cho bé ăn thử thì hạt lanh nấu lên bị đắng,A1_product,A1_product,True
+47.104_c1,săn sale được giá tốt,A5_price,A5_price,True
+56.4_c2,đóng gói cẩn thận,A3_logistics,A3_logistics,True
+64.439_c7,có tên công ty rõ ràng,A2_label,A2_label,True
+16.22_c1,"hương vị:ngọt, thơm nhẹ",A1_product,A1_product,True
+62.1169_c1,hương vị:oke,A1_product,A1_product,True
+99.3_c12,không bị hỏng hóc,A1_product,A1_product,True
+105.629_c1,hương vị:dễ uống,A1_product,A1_product,True
+87.511_c7,"nếu dính phải nấm tẩm hoá chất bảo quản, sấy bằng lưu huỳnh hay bị mốc thì sẽ có nguy cơ cao bị ung thư gan",A1_product,A1_product,True
+1.28_c5,giao hàng siêu siêu nhanh,A3_logistics,A3_logistics,True
+78.1257_c3,"nhưng khá dễ ăn, không khó ăn như loại nguyên chất bán ngoài kia",A1_product,A1_product,True
+105.348_c1,thành phần gạo lứt sấy khô pha trà với nước nóng chờ phút là có thể,A1_product,A1_product,True
+65.1331_c7,vũ nương chứng tỏ sự trong sạch của mình nên nhảy sông tự vẫn,OOD,A1_product,False
+47.104_c10,vẫn ủng hộ nếu sale,A5_price,A5_price,True
+78.1076_c1,công dụng:làm đẹp,A1_product,A1_product,True
+35.749_c2,Nhanh như một cơn gió,A3_logistics,A3_logistics,True
+56.2122_c1,delivery is fast and accurate,A3_logistics,A1_product,False
+6.1994_c3,gạo lứt đen còn chứa nhiều chất chống oxy hóa,A1_product,A1_product,True
+8.17_c7,nhưng không bị vỡ,A3_logistics,A3_logistics,True
+88.1575_c1,hàng đẹp oke,A1_product,A1_product,True
+8.17_c6,bánh giòn,A1_product,A1_product,True
+76.29_c5,hàng đóng bị thiếu mất 1 hộp bánh gạo lút,A3_logistics,A3_logistics,True
+78.656_c4,cái no cái họng hết muốn nhai gì thêm nữa lun:,A1_product,A1_product,True
+89.82_c9,giao đủ số lượng,A3_logistics,A3_logistics,True
+64.439_c4,"trên bao bì shop tick luôn loại size mà mang tặng thì hơi kì nếu mua loại nhỏ chẳng hạn, shop có thể note tạm ở đâu khác",A4_service,A4_service,True
+28.1522_c2,hạt ngon sạch,A2_label,A1_product,False
+28.926_c2,đã mua lại nhiều lần aa,A1_product,A1_product,True
+89.8_c12,"tuy nhiên, nếu cải thiện thêm về độ bền thì sẽ hoàn hảo hơn",A1_product,A1_product,True
+47.41_c4,nhận hàng đổ ra đếm đúng 90q,A3_logistics,A3_logistics,True
+71.1089_c1,nui sò hữu cơ nhiều màu từ rau củ nên an tâm sử dụng cho bé nhà mình,A2_label,A2_label,True
+25.98_c1,"hương vị:hương vị và mùi oke, dễ uống",A1_product,A1_product,True
+78.46_c3,shop giao hàng nhanh,A3_logistics,A3_logistics,True
+75.443_c2,nhưng trải nghiệm rất tệ,A1_product,A1_product,True
+72.34_c2,hương vị:không,A1_product,A1_product,True
+1.47_c5,giao hàng nhanh,A3_logistics,A3_logistics,True
+94.8_c8,đóng gói gọn gàng,A3_logistics,A3_logistics,True
+47.104_c4,táo có tầm 5 quả bị hư và mốc do hở quả,A1_product,A1_product,True
+78.1257_c8,mà vặn không chặt lúc vận chuyển dễ bị đổ,A3_logistics,A3_logistics,True
+45.1384_c1,"bao bì mẫu mã:ok hương vị:ok địa điểm tổ chức chung kết năm chương trình đường lên đỉnh olympia năm 2024 tại điểm cầu thừa thiên huế sau một quãng đường dài nỗ lực, võ quang phú đức, học sinh trường chuyên quốc học huế đã xuất sắc mang cầu truyền hình thứ 7 của đường lên đỉnh olympia về với xứ huế thơ mộng. ban tổ chức chương trình sau khi khảo sát thực tế, đã quyết định lựa chọn một địa điểm vô cùng ý nghĩa: quảng trường ngọ môn đường 23 tháng 8, thành phố huế, tỉnh thừa thiên huế . thời gian : 8h 11h ngày 13 10 2024. một không gian đủ lớn để chứa đựng sức mạnh tinh thần từ vô vàn các cổ động viên, đủ rực rỡ để hoà vào sức nóng của cuộc thi đầy gay cấn, và đủ đẹp để đại diện cho hình ảnh quê hương thân thuộc của phú đức tại trường quay ngày hôm ấy",OOD,OOD,True
+14.8_c5,bún miến phở mỳ mới mua lần đầu hôm qua nhận hàng nấu thử miến luôn ăn rất ưng,A1_product,A1_product,True
+69.1_c13,hàng chuẩn chính hãng,A2_label,A2_label,True
+89.8_c4,đúng với mô tả của người bán,A1_product,A2_label,False
+94.1178_c2,gói hàng cẩn thận,A3_logistics,A3_logistics,True
+24.278_c2,cam kết 3 không: không màu tổng hợp - không chất bảo quản - không tạp chất,A2_label,A2_label,True
+70.1079_c2,"anh shipper dễ thương,",A3_logistics,A1_product,False
+84.301_c3,but very good,A1_product,A1_product,True
+74.717_c2,không có đong công thức nạc dăm ram nước dừa thịt mua về rửa thật sạch,OOD,A1_product,False
+56.228_c2,mấy anh chị siêu thíchh,A1_product,A1_product,True
+71.7_c1,hương vị:gạo lứt bao bì mẫu mã:đúng đầu tiên,A1_product,A2_label,False
+12.86_c9,mìnlh sẽ giới thiệu cho bạn bè và quay lại mua lần sau,A4_service,A4_service,True
+65.196_c1,hương vị:hương vị bún gạo lứt,A1_product,A1_product,True
+65.1628_c6,thời gian giao hàng nhanh chóng,A3_logistics,A3_logistics,True
+45.2852_c10,shop 1đổi 1,A4_service,A4_service,True
+94.7_c1,"sản phẩm tuyệt vời, đúng với mô tả",A1_product,A2_label,False
+78.12_c12,thêm nhiều công dụng nữa,A1_product,A1_product,True
+54.333_c6,nhưng giá sale thì ổn chứ nếu giá 130k như shop niêm yết thì không ổn chút nào,A5_price,A5_price,True
+74.1386_c3,được tặng kèm muối hồng và dây đo số đo,A4_service,A4_service,True
+94.8_c14,mình sẽ giới thiệu bạn bè ủng hộ thêm vì quá hài lòng với dịch vụ,A4_service,A4_service,True
+28.1281_c2,shop có bán kính của nhiếp chính xác và tinh tinh trùng của chồng bán thuốc lá 2 a message via msn to mà không cho bé ở với bóng vô địch quốc và nhân vật chính của công dân việt dễ bị chi mà bạn yêu cầu ê kíp thực có cho các nhà đầu tư và bé đều chê là béo phì ở lại trong nhà tắm braun cho bắp e có e hỏi em và anh ns nkn càng tốt vì vậy ạ có thể làm cho bạn bè của e,OOD,OOD,True
+68.1197_c1,dùng thik lắm ạ,A1_product,A1_product,True
+27.78_c9,ăn đậu xanh sẽ thơm và bùi hơn,A1_product,A1_product,True
+64.439_c2,"shop cân đủ khối lượng, trừ vỏ đi còn đúng 500g mỗi túi",A4_service,A4_service,True
+62.981_c2,đậu hạt đều,A1_product,A1_product,True
+7.17_c6,gạo cũng không bị mốc meo hay mọt gì,A1_product,A1_product,True
+67.916_c1,"nhận được hàng trước tết, gia đủ hàng , có đồ healthy ăn tết rồi",A2_label,A2_label,True
+78.1_c4,đến vị cam nhiều người ăn nay quyết thử chứ vẫn đam mê xoài dứa kk,A1_product,A1_product,True
+99.372_c8,sau đó bỏ thêm gạo mix này vào đã ngâm đủ thời gian,A1_product,A1_product,True
+6.1994_c1,"gạo lứt đen thật sự là một loại thực phẩm vừa ngon vừa bổ hạt gạo có màu tím đen tự nhiên, dẻo thơm nhẹ, khi ăn cảm nhận được vị bùi và hơi ngọt thanh đặc trưng",A1_product,A1_product,True
+20.977_c10,thất vọng về shop,A4_service,A4_service,True
+47.34_c8,trái to,A1_product,A1_product,True
+47.104_c3,đóng gói ổn,A3_logistics,A3_logistics,True
+45.47_c2,trái vừa phải,A1_product,A1_product,True
+103.115_c1,an toàn,A1_product,A1_product,True
+81.127_c2,đầy đủ số lượng,A1_product,A1_product,True
+18.32_c1,sản phẩm chứa hàm lượng protein cao trong các loại hạt cùng vô vàn các chất dinh dưỡng tổng hợp,A1_product,A1_product,True
+43.335_c8,hihi ai ngờ nhận hàng shop không làm mình thất vọng nha,A3_logistics,A3_logistics,True
+99.3_c2,đáng giá với giá tiền,A5_price,A5_price,True
+74.927_c4,"pha 5ml với khoảng 300ml nước uống thấy bình thường,",A1_product,A1_product,True
+24.61_c7,đặc biệt chính sách bảo hành của onfod rất chuẩn,A4_service,A2_label,False
+84.2_c3,làm bằng hũ thủy tinh nắp thiếc chắn chắn,A1_product,A1_product,True
+12.701_c4,shipper vui vẻ,A3_logistics,A1_product,False
+56.1943_c1,mua gói này còn được tặng thêm 1 gói kẹo,A4_service,A4_service,True
+70.88_c2,đóng gói cẩn thận,A3_logistics,A3_logistics,True
+24.263_c1,"onfod cam kết - sản phẩm chất lượng, đảm bảo an toàn vệ sinh thực phẩm",A2_label,A2_label,True
+74.1563_c1,giấm táo hữu cơ tơt cho sức khỏe,A2_label,A2_label,True
+45.2034_c11,táo như này mà nói là sz trung thế sz nhỏ nó bé bằng đâu bằng viên bi hay quả trứng cá,A1_product,A1_product,True
+47.1439_c1,mua lần thứ hai rồi đó nhaa,A1_product,A1_product,True
+6.1994_c6,giúp đẹp da,A1_product,A1_product,True
+94.1182_c3,sản phẩm đúng mô tả nhé,A1_product,A2_label,False
+69.599_c2,shop giao hàng rất tốt,A3_logistics,A3_logistics,True
+69.17_c7,dễ pha,A1_product,A1_product,True
+28.126_c1,"qua mới nhận hàng mình thấy đóng gói rất đẹp, chắc chắn nên đã đánh giá 5 sao cho sản phẩm. tuy nhiên nay mình nấu 1 nồi chè gồm đậu xanh, đậu đen, đậu đỏ hạt to, mè đen và đường phèn khoảng 30-40g mỗi loại thì khi mình múc chén chè đầu tiên để đút cho bé nhà mình ăn khi đút có thấy 1 đoạn sợi chỉ màu trắng, vì lần đầu nên mình cũng chỉ nhặt vứt đi. tuy nhiên, đến chén thứ 2 mình múc cho mình ăn thì lại thêm 1 sợi nữa như hình mình chụp, chén sau nữa mình đã phải cẩn thận đảo lên để tìm thì lại thấy 1 sợi ngắn nữa. mình không biết đã b nào sử dụng và gặp như mình không nhưng với 1 nồi chè nhỏ mà 3-4 sợi chỉ như thế này là quá nguy hiểm, trẻ em ăn không để ý rất sợ, nên mình phải lên sửa lại feedback để mọi người thấy mà cẩn thận hơn. mình không biết nó nằm trong nguyên liệu nào nhưng tất cả những nguyên liệu của nồi chè này mình đều mua của shop này hôm qua",A1_product,A1_product,True
+84.2_c4,shop dễ thương lắm mọi người,A4_service,A4_service,True
+6.1984_c1,"hthuc nhận xu tuyệt vời! nếu không có một sản phẩm cụ thể, tôi sẽ viết một đoạn văn ngắn mang tính chất quảng cáo truyền cảm hứng về giá trị cốt lõi mà mọi sản phẩm tuyệt vời mang lại. đoạn ngắn về giá trị sản phẩm chung mỗi sản phẩm tốt không chỉ là một món đồ vật lý, mà còn là một lời hứa về giải pháp và sự nâng cấp. chúng được tạo ra không chỉ để lấp đầy một chỗ trống trên kệ hàng, mà để giải quyết một vấn đề trong cuộc sống bạn. từ chiếc điện thoại giúp kết nối thế giới, đến bộ quần áo mang lại sự tự tin, hay món đồ gia dụng giúp tiết kiệm thời gian quý báu. điều quan trọng nhất là cảm giác bạn nhận được khi sử dụng: sự tiện lợi, sự tin cậy và sự hài lòng tuyệt đối. hãy chọn những sản phẩm không chỉ có chất lượng, mà còn thực sự làm cho cuộc sống của bạn tốt đẹp hơn",OOD,OOD,True
+78.611_c1,ăn lợ lợ mà dễ ăn,A1_product,A1_product,True
+88.1258_c3,giảm mụn rõ rệt,A1_product,A1_product,True
+16.114_c1,sản phẩm đúng như mô tả,A1_product,A2_label,False
+53.58_c7,không chắc đây là sản phẩm hữu cơ như shop nói,A2_label,A2_label,True
+53.58_c1,bao bì mẫu mã:rất tệ,A1_product,A2_label,False
+78.76_c6,vị ngọt tự nhiên từ hoa quả,A1_product,A1_product,True
+12.1297_c6,không làm mình thất vọng,A1_product,A1_product,True
+84.2_c2,bao bì mẫu mã sạch đẹp,A1_product,A2_label,False
+43.53_c8,hihi ai ngờ nhận hàng shop không làm mình thất vọng nha,A3_logistics,A3_logistics,True
+69.141_c12,"có hiện tương mọc mầm hạt chia chưa được sấy kĩ ,hàng kém",A1_product,A1_product,True
+72.529_c8,nhưng đóng gói đẹp và sạch sẽ nè,A3_logistics,A3_logistics,True
+47.618_c5,lần này thấy táo xấu và nhiều quả nhỏ hơn tháng trc mình mua tháng trc mình mua rất ok và đánh giá 5,A1_product,A1_product,True
+95.498_c5,bóc ra ăn thì bên trong vỡ nát bét hết,A1_product,A1_product,True
+6.26_c4,giao hàng nhanh,A3_logistics,A3_logistics,True
+71.551_c1,hương vị:nui gao lứt rau củ đầy đủ hình dạng 500g,A1_product,A1_product,True
+67.926_c10,"nhìn chung, đây là một lựa chọn đáng cân nhắc trong phân khúc của nó",A1_product,A1_product,True
+24.285_c2,sầu riêng sạch e mới ăn EMOJI_LAUGH EMOJI_LAUGH EMOJI_LAUGH có ai giống e không,A2_label,A1_product,False
+78.925_c2,đúng mô tả,A1_product,A2_label,False
+7.208_c5,gói sạch sẽ không dính dầu,A3_logistics,A1_product,False
+28.1059_c1,"hạt chat luong, bé dễ ăn het sẽ mua tiep",A1_product,A1_product,True
+14.828_c2,sản phẩm y hình,A1_product,A1_product,True
+18.268_c7,mình định đổi trả,A4_service,A1_product,False
+28.1642_c3,em bè cũng có thể sử dụng được nhé,A1_product,A1_product,True
+25.241_c1,được đó cả nhà,A1_product,A1_product,True
+12.1346_c5,mua được ngày sale ưng lại càng ưng hơn,A5_price,A1_product,False
+68.123_c1,bánh gạo nút rong biển hữu cơ onfod ăn kiêng giảm cân giảm đưongf,A2_label,A2_label,True
+74.2389_c2,là giấm tự nhiên nên cũng yên tâm sử dụng hơn giấm hóa học,A2_label,A2_label,True
+105.1098_c14,shop uy tín,A4_service,A4_service,True
+99.3_c8,dịch vụ khách hàng rất tốt,A4_service,A4_service,True
+24.278_c5,tư vấn nhiệt tình,A4_service,A4_service,True
+69.1_c10,đúng với hình ảnh trên shop,A1_product,A4_service,False
+78.26_c2,công dụng:giúp hỗ trợ tăng cường hẹ miễn dịch và giảm tình trạng mụn nội tiết quanh hàm,A1_product,A1_product,True
+24.263_c2,cam kết 3 không: không màu tổng hợp - không chất bảo quản - không tạp chất,A2_label,A2_label,True
+68.841_c6,quảng cáo là hàng hữu cơ đạt tiêu chuẩn nhưng chắc chắn không phải,A2_label,A2_label,True
+34.15_c7,"đợt này mình mua 2 gói, tính ra là 71k 500g",A5_price,A1_product,False
+45.1127_c1,sản phẩm phù hợp giá tiền,A5_price,A5_price,True
+34.27_c1,"yến mạch hữu cơ, nấu các món ăn dặm cho bé",A2_label,A2_label,True
+7.208_c1,đơn này thật sự làm mình ưng hết sức,A1_product,A1_product,True
+89.8_c1,hương vị:ngon,A1_product,A1_product,True
+43.335_c13,nhân viên bên shop thì trên cả tuyệt zời EMOJI_POS,A4_service,A4_service,True
+56.131_c1,trà uống ngon,A1_product,A1_product,True
+13.7_c2,hương vị:ngon,A1_product,A1_product,True
+99.372_c4,ưng nè nấu cần ngâm hơn 30ph mới dễ nấu á nếu không có thời gian thì cho xíu muối hồng ngâm 10-15ph sẽ nấu nhừ hơn mình bật mode brown rice,A1_product,A1_product,True
+78.71_c3,mà có hiệu quả thiệt nha,A1_product,A1_product,True
+47.596_c6,có khuyến mãi kèm theo 1 túi táo nhược khương size bé,A5_price,A5_price,True
+14.8_c3,nên hàng nguyên vẹn không vỡ gãy hay mất chân,A3_logistics,A3_logistics,True
+56.4_c1,shop giao hàng rất nhanh,A3_logistics,A3_logistics,True
+8.17_c9,có bọc chống sốc và bên ngoài ghi hàng dễ vỡ nữa,A3_logistics,A3_logistics,True
+73.543_c2,gói kĩ vl,A3_logistics,A3_logistics,True
+28.2556_c1,hạt dinh dưỡng onfod cho bé ăn dặm làm sữa hạt nguyên chất đậu lăng,A1_product,A1_product,True
+24.2772_c1,hương vị:de trai nghiem r gửi phanhooif sau đã nhận đầy đủ đơn hàng,A3_logistics,A1_product,False
+70.1933_c4,tôi cảm thấy rất tệ vì tôi đã ngâm nước và tách nước ra rất nhiều và rửa lại mà nó vẫn bị tanh và mạnh,A1_product,A5_price,False
+24.263_c9,giao thiếu hàng - hỗ trợ đổi trả nếu sản phẩm không giống hình,A3_logistics,A3_logistics,True
+99.372_c2,sản phẩm date xa,A1_product,A2_label,False
+45.2034_c9,đã thế lại còn mua live tream mới được giá này chẳng wa lừa khách nói để nâng cao tầm wan trọng,A5_price,A5_price,True

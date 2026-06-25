@@ -1,0 +1,6 @@
+﻿dominant_aspect_pred,NEGATIVE,NEUTRAL,POSITIVE
+A1_product,5.0,8.0,34.0
+A2_label,,,6.0
+A3_logistics,1.0,,4.0
+A4_service,,1.0,4.0
+A5_price,,,1.0

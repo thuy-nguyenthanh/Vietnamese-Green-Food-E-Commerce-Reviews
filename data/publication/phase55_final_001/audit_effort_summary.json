@@ -1,0 +1,37 @@
+{
+  "generated_at_utc": "2026-05-28T06:30:00+00:00",
+  "run_tag": "phase55_final_001",
+  "audit_effort_clauses": {
+    "tier1_neg_qc": {
+      "n_clauses": 18,
+      "n_annotators": 1,
+      "n_annotations": 18,
+      "coverage": "100% QC"
+    },
+    "tier2_spotcheck": {
+      "n_clauses_spotchecked": 11,
+      "n_annotators": 1,
+      "n_annotations": 11,
+      "note": "20% spot-check on Tier-2 sentiment boost; 11/11 pass"
+    },
+    "tier3_mini_iaa": {
+      "n_clauses": 120,
+      "n_annotators": 2,
+      "n_annotations": 240,
+      "kappa_overall": 0.9624
+    },
+    "t2_aspect_gold": {
+      "n_clauses": 297,
+      "n_annotators": 2,
+      "n_annotations_estimated": 594,
+      "kappa_overall": "~0.95",
+      "note": "Step G IAA batches + DS adjudication"
+    }
+  },
+  "total_human_audit_clauses_unique": {
+    "tier3_only": 120,
+    "t2_only": 297,
+    "overlap_note": "T2 and T3 are distinct audit lanes; not double-counted for unique clause coverage"
+  },
+  "methods_paragraph_draft": "Human annotation effort included Tier-1 NEG QC (18/18 clauses), Tier-2 spot-check (11 clauses), Tier-3 dual-rater mini-IAA (120 clauses, 240 annotations, κ=0.96), and Step G aspect gold audit (297 clauses, κ≈0.95). This dual-lane design separates aspect validation (T2) from sentiment validation (T3) while keeping silver-scale pipeline labels for descriptive analytics on n=1,742 extended clauses."
+}

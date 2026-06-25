@@ -1,0 +1,57 @@
+{
+  "generated_at_utc": "2026-05-28T06:28:29.906514+00:00",
+  "eval_type": "step8_t3_zero_shot_bootstrap",
+  "source_predictions": "[original research workspace]/t3_predictions.csv",
+  "reference_point_report": "[original research workspace]/t3_eval_report.json",
+  "metrics": {
+    "n_samples": 120,
+    "n_bootstrap": 2000,
+    "seed": 42,
+    "macro_f1": {
+      "point": 0.5022,
+      "ci95_low": 0.412,
+      "ci95_high": 0.5821,
+      "bootstrap_std": 0.0437
+    },
+    "per_class_f1": {
+      "NEGATIVE": {
+        "support": 39,
+        "point": 0.6197,
+        "ci95_low": 0.4745,
+        "ci95_high": 0.7342,
+        "bootstrap_std": 0.0672
+      },
+      "NEUTRAL": {
+        "support": 44,
+        "point": 0.2985,
+        "ci95_low": 0.1481,
+        "ci95_high": 0.4412,
+        "bootstrap_std": 0.0737
+      },
+      "POSITIVE": {
+        "support": 37,
+        "point": 0.5882,
+        "ci95_low": 0.4632,
+        "ci95_high": 0.6916,
+        "bootstrap_std": 0.0593
+      }
+    },
+    "f1_neg": {
+      "point": 0.6197,
+      "ci95_low": 0.4745,
+      "ci95_high": 0.7342,
+      "bootstrap_std": 0.0672
+    },
+    "recall_neg": {
+      "point": 0.5641,
+      "ci95_low": 0.4081,
+      "ci95_high": 0.7179,
+      "bootstrap_std": 0.0788
+    }
+  },
+  "reference_from_report": {
+    "macro_f1": 0.5021,
+    "f1_neg": 0.6197,
+    "recall_neg": 0.5641
+  }
+}

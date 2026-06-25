@@ -1,0 +1,119 @@
+{
+  "generated_at_utc": "2026-05-28T06:28:30.818008+00:00",
+  "run_tag": "phase55_final_001",
+  "label_type": "silver_pipeline_labels",
+  "label_columns": {
+    "aspect": "aspect_hint",
+    "sentiment": "sentiment_polarity_hint"
+  },
+  "n_clauses": 1742,
+  "D1_aspect_distribution": {
+    "A1_product": {
+      "n": 968,
+      "pct": 55.57
+    },
+    "A3_logistics": {
+      "n": 261,
+      "pct": 14.98
+    },
+    "A4_service": {
+      "n": 172,
+      "pct": 9.87
+    },
+    "A2_label": {
+      "n": 166,
+      "pct": 9.53
+    },
+    "A5_price": {
+      "n": 159,
+      "pct": 9.13
+    },
+    "OOD": {
+      "n": 16,
+      "pct": 0.92
+    }
+  },
+  "D2_sentiment_distribution": {
+    "POS": {
+      "n": 1425,
+      "pct": 81.8
+    },
+    "NEG": {
+      "n": 234,
+      "pct": 13.43
+    },
+    "NEU": {
+      "n": 82,
+      "pct": 4.71
+    },
+    "MIXED": {
+      "n": 1,
+      "pct": 0.06
+    }
+  },
+  "D3_aspect_sentiment_crosstab_files": [
+    "aspect_sentiment_crosstab.csv",
+    "aspect_sentiment_crosstab_row_pct.csv"
+  ],
+  "D4_neg_complaint_by_aspect": [
+    {
+      "aspect": "A1_product",
+      "n": 133,
+      "pct_of_neg": 56.84
+    },
+    {
+      "aspect": "A3_logistics",
+      "n": 30,
+      "pct_of_neg": 12.82
+    },
+    {
+      "aspect": "A4_service",
+      "n": 28,
+      "pct_of_neg": 11.97
+    },
+    {
+      "aspect": "A5_price",
+      "n": 27,
+      "pct_of_neg": 11.54
+    },
+    {
+      "aspect": "A2_label",
+      "n": 15,
+      "pct_of_neg": 6.41
+    },
+    {
+      "aspect": "OOD",
+      "n": 1,
+      "pct_of_neg": 0.43
+    }
+  ],
+  "D5_annotation_source": {
+    "llm_extended": {
+      "n": 1427,
+      "pct": 81.92
+    },
+    "human_gold_iaa_override": {
+      "n": 159,
+      "pct": 9.13
+    },
+    "human_gold_iaa": {
+      "n": 138,
+      "pct": 7.92
+    },
+    "human_qc_neg_boost": {
+      "n": 12,
+      "pct": 0.69
+    },
+    "llm_extended_tier1": {
+      "n": 6,
+      "pct": 0.34
+    }
+  },
+  "D6_partial_cohort_b": {
+    "neg_extended": 234,
+    "neg_extended_target": 350,
+    "train_neg_after_tier2": 212,
+    "train_neg_target": 280
+  },
+  "manuscript_note": "Descriptive tables use silver pipeline labels after LLM-assisted preprocessing and partial human QC — not human gold audit lanes (T2/T3)."
+}

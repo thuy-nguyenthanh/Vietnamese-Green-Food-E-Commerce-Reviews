@@ -1,0 +1,57 @@
+{
+  "generated_at_utc": "2026-05-28T08:05:55.599047+00:00",
+  "eval_type": "step8_t3_sensitivity_no_adrd25",
+  "n_clauses": 117,
+  "gold_source": "[original research workspace]/tier3_mini_iaa_gold_v1.csv",
+  "primary_metrics": {
+    "macro_f1": 0.5074,
+    "f1_neg": 0.6286,
+    "recall_neg": 0.5641
+  },
+  "per_class": {
+    "NEGATIVE": {
+      "precision": 0.7097,
+      "recall": 0.5641,
+      "f1": 0.6286,
+      "tp": 22,
+      "fp": 9,
+      "fn": 17
+    },
+    "NEUTRAL": {
+      "precision": 0.4545,
+      "recall": 0.2326,
+      "f1": 0.3077,
+      "tp": 10,
+      "fp": 12,
+      "fn": 33
+    },
+    "POSITIVE": {
+      "precision": 0.4531,
+      "recall": 0.8286,
+      "f1": 0.5859,
+      "tp": 29,
+      "fp": 35,
+      "fn": 6
+    }
+  },
+  "confusion_matrix": {
+    "NEGATIVE": {
+      "NEGATIVE": 22,
+      "NEUTRAL": 8,
+      "POSITIVE": 9
+    },
+    "NEUTRAL": {
+      "NEGATIVE": 7,
+      "NEUTRAL": 10,
+      "POSITIVE": 26
+    },
+    "POSITIVE": {
+      "NEGATIVE": 2,
+      "NEUTRAL": 4,
+      "POSITIVE": 29
+    }
+  },
+  "agreement_with_gold": 61,
+  "parse_errors": 0,
+  "low_confidence_clauses": 3
+}

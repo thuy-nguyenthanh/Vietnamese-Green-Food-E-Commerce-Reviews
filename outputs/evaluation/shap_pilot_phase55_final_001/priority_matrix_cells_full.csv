@@ -1,0 +1,10 @@
+﻿dominant_aspect_pred,sentiment_final_label,n_reviews,mean_prob_non_positive,share_pred_non_positive,share_true_non_positive,mean_prob_neg,guardrail_pass
+A1_product,NEGATIVE,5,0.3282928848,0.4,0.6,0.89308,False
+A1_product,NEUTRAL,8,0.0097933949625,0.0,0.125,0.19195,False
+A1_product,POSITIVE,34,0.0016434196585294117,0.0,0.0,0.001364705882352941,True
+A2_label,POSITIVE,6,0.0011344976933333334,0.0,0.0,0.0005,False
+A3_logistics,NEGATIVE,1,0.98559684,1.0,1.0,0.9485,False
+A3_logistics,POSITIVE,4,0.00133701534,0.0,0.0,0.000525,False
+A4_service,NEUTRAL,1,0.08508097,0.0,1.0,0.4125,False
+A4_service,POSITIVE,4,0.003760316725,0.0,0.0,0.00047499999999999994,False
+A5_price,POSITIVE,1,0.0005184149,0.0,0.0,0.0005,False

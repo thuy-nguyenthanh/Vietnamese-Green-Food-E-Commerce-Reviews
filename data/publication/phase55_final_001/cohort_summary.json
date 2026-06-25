@@ -1,0 +1,93 @@
+{
+  "generated_at_utc": "2026-05-28T06:27:22.429323+00:00",
+  "run_tag": "phase55_final_001",
+  "ssot_csv": "[original research workspace]/clauses_final_43c_44_20260528_034911.csv",
+  "extended_pool_n": 1742,
+  "extended_reviews_n": 559,
+  "core_counts": {
+    "clauses": 4254,
+    "reviews": 1053,
+    "keep_for_absa": 1787,
+    "need_human_review": 512,
+    "absa_and_nhr": 63
+  },
+  "sentiment_distribution": {
+    "POS": {
+      "n": 1425,
+      "pct": 81.8
+    },
+    "NEG": {
+      "n": 234,
+      "pct": 13.43
+    },
+    "NEU": {
+      "n": 82,
+      "pct": 4.71
+    },
+    "MIXED": {
+      "n": 1,
+      "pct": 0.06
+    }
+  },
+  "aspect_distribution": {
+    "A1_product": {
+      "n": 968,
+      "pct": 55.57
+    },
+    "A3_logistics": {
+      "n": 261,
+      "pct": 14.98
+    },
+    "A4_service": {
+      "n": 172,
+      "pct": 9.87
+    },
+    "A2_label": {
+      "n": 166,
+      "pct": 9.53
+    },
+    "A5_price": {
+      "n": 159,
+      "pct": 9.13
+    },
+    "OOD": {
+      "n": 16,
+      "pct": 0.92
+    }
+  },
+  "annotation_source": {
+    "llm_extended": {
+      "n": 1427,
+      "pct": 81.92
+    },
+    "human_gold_iaa_override": {
+      "n": 159,
+      "pct": 9.13
+    },
+    "human_gold_iaa": {
+      "n": 138,
+      "pct": 7.92
+    },
+    "human_qc_neg_boost": {
+      "n": 12,
+      "pct": 0.69
+    },
+    "llm_extended_tier1": {
+      "n": 6,
+      "pct": 0.34
+    }
+  },
+  "partial_cohort_b": {
+    "neg_extended": 234,
+    "neg_extended_target": 350,
+    "neg_extended_pct_of_target": 66.86,
+    "train_neg_after_tier2": 212,
+    "train_neg_target": 280
+  },
+  "phase55_audit_lanes": {
+    "tier1_neg_qc": 18,
+    "tier2_spotcheck_pass": 11,
+    "tier3_mini_iaa_n": 120,
+    "t2_aspect_gold_n": 297
+  }
+}

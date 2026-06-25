@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-05-28T04:56:34.925801+00:00",
+  "eval_tag": "phase55_tier23_001_t3_human",
+  "comparison": "ViSoBERT zero-shot vs TF-IDF+LR (silver clause train)",
+  "n_t3": 120,
+  "visobert_accuracy": 0.5167,
+  "baseline_accuracy": 0.85,
+  "delta_accuracy_visobert_minus_baseline": -0.3333,
+  "mcnemar": {
+    "visobert_correct_baseline_wrong": 7,
+    "baseline_correct_visobert_wrong": 47,
+    "n_discordant": 54,
+    "p_value_two_sided": 0.0
+  },
+  "note": "Full ViSoBERT focal fine-tune per v3 §8.2 not run; baseline is appendix proxy."
+}

@@ -1,0 +1,121 @@
+﻿id,iaa_batch_id,review_id,review_text_sentence_segmented,label,label_sentiment_gold,adjudication_source
+27.78_c1,,,"[""sau khi cho bé ăn thử thì hạt lanh nấu lên bị đắng""]",NEGATIVE,NEG,consensus_A_B
+45.1871_c11,,,"[""nan""]",NEGATIVE,NEG,consensus_A_B
+65.1628_c9,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+95.498_c1,,,"[""mua nhiều lần của shop rồi mà lần này phải cho 2""]",NEGATIVE,NEG,consensus_A_B
+45.1127_c7,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+74.1694_c11,,,"[""phải chăng đã bị trộn thêm dấm khác vào nên đầy ắp và nồng đến vậy""]",NEGATIVE,NEG,consensus_A_B
+18.469_c5,,,"[""cũng không rõ shop chạy date hay sao chứ có mọt là hàng cũ roài""]",NEGATIVE,NEG,consensus_A_B
+45.711_c4,,,"[""đóng gói cẩn thận""]",POSITIVE,POS,consensus_A_B
+27.492_c3,,,"[""không phải tự ghi tên hạt lên túi""]",NEGATIVE,NEG,consensus_A_B
+45.47_c2,,,"[""trái vừa phải""]",NEUTRAL,NEU,consensus_A_B
+45.2852_c10,,,"[""shop 1đổi 1""]",POSITIVE,POS,consensus_A_B
+53.58_c2,,,"[""shop giao hàng rất lâu, mình ở xài gòn, tận 4 ngày mới nhận được hàng""]",NEGATIVE,NEG,consensus_A_B
+84.301_c3,,,"[""but very good""]",POSITIVE,POS,consensus_A_B
+105.1098_c1,,,"[""hàng đúng mô tả""]",POSITIVE,POS,consensus_A_B
+74.1386_c1,,,"[""hương vị:giấm táo""]",NEUTRAL,NEU,consensus_A_B
+27.492_c6,,,"[""chưa biết chất lượng hạt khác nhau không""]",NEUTRAL,NEU,consensus_A_B
+18.469_c4,,,"[""mà date 12 2023 lận""]",NEUTRAL,NEU,consensus_A_B
+89.8_c3,,,"[""sản phẩm này có chất lượng tốt""]",POSITIVE,POS,consensus_A_B
+67.2115_c3,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+70.1013_c2,,,"[""bao bì mẫu mã:gần giống như trong hình""]",NEUTRAL,NEU,consensus_A_B
+74.186_c10,,,"[""nhưng mình thất vọng quá ạ""]",NEGATIVE,NEG,consensus_A_B
+45.1517_c7,,,"[""shop giải thích rằng bên shop sấy mộc sấy mộ liên quan gì đến quả to quả nhỏ đâu nhỉ""]",NEGATIVE,NEG,consensus_A_B
+43.29_c5,,,"[""ăn rồi..thơm lắm.. thích ăn thêm""]",POSITIVE,POS,consensus_A_B
+70.1933_c3,,,"[""hương vị:tan mạnh không có béo cũng cũng không có bị ngọt mà nó rất là mặn""]",NEGATIVE,NEG,consensus_A_B
+11.975_c5,,,"[""không những thế còn rất nhiều sạn trong gói""]",NEGATIVE,NEG,consensus_A_B
+7.208_c5,,,"[""gói sạch sẽ không dính dầu""]",POSITIVE,POS,consensus_A_B
+96.45_c1,,,"[""hàng tặng kèm ăn được nhé""]",POSITIVE,POS,consensus_A_B
+105.348_c1,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+72.529_c2,,,"[""nếu bạn là người muốn ăn nhanh gọn lẹ thì những em này không hợp đâu nha vì nấu và ngâm khá lâu""]",NEGATIVE,NEG,consensus_A_B
+95.102_c1,,,"[""chỉ có 3 gói bánh ăn thử sop""]",NEUTRAL,NEU,consensus_A_B
+83.34_c3,,,"[""đường mía này dùng cá thơm độ ngọt dịu không ngọt cắt như đường tinh luyện""]",POSITIVE,POS,consensus_A_B
+45.2034_c5,,,"[""đã thế còn khô nhạt nhẽo như kiểu táo non""]",NEGATIVE,NEG,consensus_A_B
+78.682_c2,,,"[""được tặng kèm 4 gói rắc cơm""]",POSITIVE,POS,consensus_A_B
+29.182_c1,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+75.655_c6,,,"[""giá rẻ nên nhận sản phẩm cũng giống như mua sản phẩm lỗi thanh lý của shop khác vậy""]",NEGATIVE,NEG,consensus_A_B
+59.271_c2,,,"[""có thể làm tráng miệng vào 3h chiều""]",NEUTRAL,NEU,consensus_A_B
+14.1297_c10,,,"[""bố mình nghĩ mình đang nấu xôi""]",POSITIVE,POS,ds_tie_break
+95.498_c5,,,"[""bóc ra ăn thì bên trong vỡ nát bét hết""]",NEGATIVE,NEG,consensus_A_B
+90.3_c2,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+56.311_c1,,,"[""chất lượng của sản phẩm này quá tốt""]",POSITIVE,POS,consensus_A_B
+30.39_c1,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+14.1297_c8,,,"[""ăn giống mùi gạo nếp cẩm trong sữa chua nếp cẩm""]",POSITIVE,POS,consensus_A_B
+45.2034_c3,,,"[""đặt táo sz trung mà bé tí tẹo""]",NEGATIVE,NEG,consensus_A_B
+14.33_c9,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+78.697_c1,,,"[""lần đầu dùng thử được nửa hủ thấy cũng cũng,""]",NEUTRAL,NEU,consensus_A_B
+12.635_c5,,,"[""gạo đen thì có bao bì riêng""]",NEUTRAL,NEU,consensus_A_B
+65.196_c5,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+64.1523_c1,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+72.529_c1,,,"[""cá nhân mình thấy mấy em này hơi khó nấu cho người đầu tiên mới sử dụng""]",NEGATIVE,NEG,consensus_A_B
+14.1285_c1,,,"[""bao bì mẫu mã:mới""]",POSITIVE,POS,ds_tie_break
+82.3_c7,,,"[""nhưng cho 1 vì đặt ở sg giao đn mà 5 ngày mới có hàng""]",NEGATIVE,NEG,consensus_A_B
+70.98_c1,,,"[""bao bì mẫu mã:tốt""]",POSITIVE,POS,consensus_A_B
+78.46_c1,,,"[""công dụng:hỗ trợ điều hoà kinh nguyệt""]",NEUTRAL,NEU,consensus_A_B
+27.78_c3,,,"[""hạt sen thì sượng""]",NEGATIVE,NEG,consensus_A_B
+105.1098_c5,,,"[""đóng gói chắc chắn""]",POSITIVE,POS,consensus_A_B
+63.1454_c3,,,"[""tạm thôi ạ""]",NEUTRAL,NEU,consensus_A_B
+114.29_c3,,,"[""lần sau sẽ ủng hộ thêm""]",POSITIVE,POS,consensus_A_B
+56.2598_c1,,,"[""bịch kẹo atiso của t đâu""]",NEGATIVE,NEG,consensus_A_B
+67.2115_c5,,,"[""nan""]",NEGATIVE,NEG,consensus_A_B
+67.2815_c2,,,"[""mua tổng hết 100k mà mì chắc được cỡ 1 bát nhỏ hixx choánn""]",NEGATIVE,NEG,consensus_A_B
+68.1453_c1,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+14.616_c1,,,"[""hàng chuẩn okay nên mua nhe mn""]",POSITIVE,POS,consensus_A_B
+105.1316_c1,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+69.141_c8,,,"[""chỉ giúp chống đói tạm thời trong khoảng 30 phút""]",NEUTRAL,NEU,consensus_A_B
+69.17_c4,,,"[""pha với nhiều loại bột uống giảm cân đẹp da""]",NEUTRAL,NEU,consensus_A_B
+65.196_c4,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+1.71_c1,,,"[""shop gói hàng cẩn thận""]",POSITIVE,POS,consensus_A_B
+74.2385_c2,,,"[""h mua lại thấy chất giấm có vẻ đậm màu hơn dù đã lắng cái xuống đáy""]",NEUTRAL,NEU,consensus_A_B
+24.278_c7,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+14.7_c5,,,"[""quá nhiều màu sắc của gạo, rất đẹp, qua đây em thấy đặc sản điện biên rất phong phú""]",POSITIVE,POS,consensus_A_B
+34.707_c1,,,"[""nan""]",POSITIVE,POS,consensus_A_B
+47.596_c4,,,"[""vị hơi chua hơn táo nhỏ""]",NEUTRAL,NEU,consensus_A_B
+87.1136_c5,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+78.76_c4,,,"[""lần đầu ăn vẫn hơi nghẹn xíu ở cổ""]",NEGATIVE,NEG,consensus_A_B
+64.439_c3,,,"[""hạt thì có hạt to nhỏ lẫn nhau""]",NEUTRAL,NEU,consensus_A_B
+33.298_c2,,,"[""tiền nào của nấy thôi nè hehe""]",NEUTRAL,NEU,consensus_A_B
+56.1676_c4,,,"[""có phải là hết sản phẩm nên giao thiếu cho khách không""]",NEGATIVE,NEG,consensus_A_B
+45.2034_c7,,,"[""mìn mua ở shop khác táo như này 3kg 125k mà ngọt chứ không nhạt như này""]",NEGATIVE,NEG,consensus_A_B
+64.1289_c1,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+17.78_c1,,,"[""nan""]",NEGATIVE,NEG,consensus_A_B
+43.17_c3,,,"[""trái thì cũng sẽ có trái to và nhỏ và vụn chứ không phải trái nào cũng bự""]",NEUTRAL,NEU,consensus_A_B
+69.141_c5,,,"[""cơ thể vẫn bị táo bón và đầy hơi""]",NEGATIVE,NEG,consensus_A_B
+70.247_c1,,,"[""lần đầu tiên ăn cũng tạm được""]",NEUTRAL,NEU,consensus_A_B
+28.126_c1,,,"[""nan""]",NEGATIVE,NEG,consensus_A_B
+1.28_c1,,,"[""hương vị:k mui""]",NEUTRAL,NEU,consensus_A_B
+54.333_c7,,,"[""thậm chí 70k thì cũng hơi cao so với chất lượng""]",NEGATIVE,NEG,consensus_A_B
+45.1517_c10,,,"[""mọi người nên cân nhắc vì giá cũng không rẻ hơn các shop khác nhưng chất lượng thì không bằng cảm nhận cá nhân của mình""]",NEGATIVE,NEG,consensus_A_B
+86.225_c1,,,"[""mình tưởng to lắm""]",NEGATIVE,NEG,consensus_A_B
+54.1313_c1,,,"[""uống tạm được""]",NEUTRAL,NEU,consensus_A_B
+47.41_c5,,,"[""nhưng quả không to như trứng gà đâu ạ""]",NEGATIVE,NEG,consensus_A_B
+68.841_c5,,,"[""hương vị thì không ngon, rong biển đắng ngắt""]",NEGATIVE,NEG,consensus_A_B
+65.1331_c6,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+69.17_c5,,,"[""yaour sinh tố rau trộn cần tây đều có thể bỏ vào""]",NEUTRAL,NEU,consensus_A_B
+45.1517_c3,,,"[""hàng nhận được lại không như mong muốn""]",NEGATIVE,NEG,consensus_A_B
+53.64_c11,,,"[""chăm chút phần đóng gói xíu thể hiện sự tôn trọng sản phẩm của mình cũng như sự tận tâm trong việc cung cấp cho khách""]",NEGATIVE,NEG,consensus_A_B
+47.618_c10,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+28.1014_c8,,,"[""nan""]",NEUTRAL,NEU,consensus_A_B
+81.89_c3,,,"[""gói hàng cẩn thận""]",POSITIVE,POS,consensus_A_B
+83.34_c2,,,"[""giá không có đắt cũng không rẻ""]",NEUTRAL,NEU,consensus_A_B
+78.12_c6,,,"[""ê mà tui thấy nó không khó ăn đối với tui nha""]",POSITIVE,POS,consensus_A_B
+11.975_c9,,,"[""mk còn mua 2 gói gạo của shop nhg chưa thử được không biết có bị sít rịt gì không""]",NEUTRAL,NEU,consensus_A_B
+78.12_c11,,,"[""mà nó ngon nha""]",POSITIVE,POS,consensus_A_B
+12.1297_c6,,,"[""không làm mình thất vọng""]",POSITIVE,POS,consensus_A_B
+24.61_c3,,,"[""shop giao hàng rất nhanh""]",POSITIVE,POS,consensus_A_B
+64.1194_c1,,,"[""hương vị:bình thường""]",NEUTRAL,NEU,consensus_A_B
+34.27_c1,,,"[""yến mạch hữu cơ, nấu các món ăn dặm cho bé""]",NEUTRAL,NEU,consensus_A_B
+12.635_c6,,,"[""gạo rồng thì đóng bịch nilon rồi dán tem thui ạ""]",NEUTRAL,NEU,consensus_A_B
+47.34_c7,,,"[""bịch 1 không""]",NEUTRAL,NEU,consensus_A_B
+24.1285_c4,,,"[""còn 1 bịch thì không được hút""]",NEGATIVE,NEG,consensus_A_B
+73.1014_c1,,,"[""đúng theo mô tả""]",POSITIVE,POS,consensus_A_B
+64.1194_c5,,,"[""size to thì mình mong hạt được chất lượng""]",NEUTRAL,NEU,consensus_A_B
+72.34_c2,,,"[""hương vị:không""]",NEUTRAL,NEU,ds_tie_break
+78.552_c1,,,"[""bỏ tủ lạnh dễ ăn hơn,""]",POSITIVE,POS,consensus_A_B
+45.1517_c1,,,"[""lần đầu tiên mua hàng bên shop, thấy đều đánh giá 5 sao nên tin tưởng mua luôn combo gói to, dại quá""]",NEGATIVE,NEG,consensus_A_B
+95.382_c1,,,"[""mới ăn thử gói bánh tặng nhưng thấy không ngon""]",NEGATIVE,NEG,consensus_A_B
+88.2503_c2,,,"[""nóng trong thì uống nhá""]",NEUTRAL,NEU,consensus_A_B
+69.1_c10,,,"[""đúng với hình ảnh trên shop""]",POSITIVE,POS,consensus_A_B
+25.14_c3,,,"[""cảm nhận đa số mùi các loại đậu đỗ là chính""]",NEUTRAL,NEU,consensus_A_B
+70.749_c1,,,"[""do dịch nên giao hàng hơi lâu""]",NEGATIVE,NEG,consensus_A_B
+70.128_c1,,,"[""hương vị:cũng được ăn thấy cũng bình thường,""]",NEUTRAL,NEU,consensus_A_B

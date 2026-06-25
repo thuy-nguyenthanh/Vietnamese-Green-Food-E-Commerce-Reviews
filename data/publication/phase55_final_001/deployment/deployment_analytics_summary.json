@@ -1,0 +1,64 @@
+{
+  "generated_at_utc": "2026-05-28T06:29:27.435312+00:00",
+  "run_tag": "phase55_final_001",
+  "framing": "deployment_diagnostic_appendix_only",
+  "n_clauses": 1742,
+  "M1_silver_vs_model_aspect": {
+    "overall": {
+      "n": 1742,
+      "agreement_n": 1597,
+      "agreement_rate": 0.9168
+    },
+    "per_silver_class": {
+      "A1_product": {
+        "n": 968,
+        "agreement_n": 902,
+        "agreement_rate": 0.9318
+      },
+      "A2_label": {
+        "n": 166,
+        "agreement_n": 155,
+        "agreement_rate": 0.9337
+      },
+      "A3_logistics": {
+        "n": 261,
+        "agreement_n": 236,
+        "agreement_rate": 0.9042
+      },
+      "A4_service": {
+        "n": 172,
+        "agreement_n": 159,
+        "agreement_rate": 0.9244
+      },
+      "A5_price": {
+        "n": 159,
+        "agreement_n": 136,
+        "agreement_rate": 0.8553
+      },
+      "OOD": {
+        "n": 16,
+        "agreement_n": 9,
+        "agreement_rate": 0.5625
+      }
+    }
+  },
+  "M2_silver_vs_model_sentiment_on_neg_subset": {
+    "n": 234,
+    "agreement_n": 147,
+    "agreement_rate": 0.6282
+  },
+  "M3_top_aspect_disagreement_pairs": {
+    "A1_product|A2_label": 26,
+    "A1_product|A3_logistics": 22,
+    "A3_logistics|A1_product": 18,
+    "A4_service|A1_product": 10,
+    "A5_price|A1_product": 10,
+    "A1_product|A4_service": 9,
+    "A1_product|A5_price": 8,
+    "A5_price|A4_service": 7,
+    "A2_label|A1_product": 7,
+    "OOD|A1_product": 7
+  },
+  "sentiment_disagreement_n": 264,
+  "note": "Not for primary accuracy claims; illustrates silver-label vs deployed inference gap."
+}

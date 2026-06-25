@@ -1,0 +1,70 @@
+{
+  "generated_at_utc": "2026-05-28T06:27:22.435079+00:00",
+  "run_tag": "phase55_final_001",
+  "framing": "big_data_funnel_to_curated_absa_corpus",
+  "stages": [
+    {
+      "stage_id": "S1_crawl",
+      "label": "Raw reviews crawled (Shopee)",
+      "n": 127332,
+      "unit": "review",
+      "source": "[original research workspace]/_profile_31_32.json"
+    },
+    {
+      "stage_id": "S2_human_qc",
+      "label": "After human QC 3.2c (documented v2)",
+      "n": 126329,
+      "unit": "review",
+      "source": "Giai_phap_Hybrid_Pipeline_BERTopic_ViSoBERT_v2.md §3.2c",
+      "note": "Static Methods count; verify against Step02 if updated"
+    },
+    {
+      "stage_id": "S3_clause_43b",
+      "label": "Clauses after NLP segmentation 4.3b",
+      "n": 176613,
+      "unit": "clause",
+      "source": "Giai_phap v2/v3 §2.1"
+    },
+    {
+      "stage_id": "S4_llm_hardcase",
+      "label": "LLM-assisted hard-case reviews (4.3c path)",
+      "n": 1166,
+      "unit": "review",
+      "source": "core need_llm_assisted or v2 documented 1166",
+      "documented_n": 1166
+    },
+    {
+      "stage_id": "S5_core_clauses",
+      "label": "Core clauses after 4.3c A–E",
+      "n": 4254,
+      "unit": "clause",
+      "n_reviews": 1053,
+      "source": "[original research workspace]/clauses_core_all_v3.csv"
+    },
+    {
+      "stage_id": "S6_extended_absa",
+      "label": "ABSA-eligible extended pool (Step F + Phase 5.5 partial)",
+      "n": 1742,
+      "unit": "clause",
+      "n_reviews": 559,
+      "source": "[original research workspace]/clauses_final_43c_44_20260528_034911.csv"
+    },
+    {
+      "stage_id": "S7_audit_t2",
+      "label": "Human aspect gold audit (T2)",
+      "n": 297,
+      "unit": "clause",
+      "kappa": "~0.95",
+      "source": "[original research workspace]/stepG_gold_labels_v1.csv"
+    },
+    {
+      "stage_id": "S8_audit_t3",
+      "label": "Human sentiment mini-IAA (T3)",
+      "n": 120,
+      "unit": "clause",
+      "kappa": 0.9624,
+      "source": "phase55_tier23_001/tier3/analysis/iaa_report.json"
+    }
+  ],
+  "claim_boundary": "Supervised and descriptive analytics apply to ABSA-eligible hard-case clauses, not the full 127k review crawl."
+}

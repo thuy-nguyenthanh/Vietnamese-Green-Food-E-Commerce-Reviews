@@ -1,0 +1,88 @@
+{
+  "generated_at_utc": "2026-05-28T04:56:25.171148+00:00",
+  "eval_type": "step7_primary_t2_gold",
+  "run_tag": "phase55_final_001",
+  "output_tag": "phase55_final_001_t2_gold",
+  "model": "TF-IDF + LogisticRegression (silver train)",
+  "n_t2_gold": 297,
+  "macro_f1": 0.8143,
+  "agreement_with_gold": 252,
+  "per_class": {
+    "A1_product": {
+      "f1": 0.8599,
+      "support": 159
+    },
+    "A2_label": {
+      "f1": 0.6885,
+      "support": 23
+    },
+    "A3_logistics": {
+      "f1": 0.9293,
+      "support": 53
+    },
+    "A4_service": {
+      "f1": 0.8889,
+      "support": 31
+    },
+    "A5_price": {
+      "f1": 0.8235,
+      "support": 17
+    },
+    "OOD": {
+      "f1": 0.6957,
+      "support": 14
+    }
+  },
+  "confusion_matrix": {
+    "A1_product": {
+      "A1_product": 135,
+      "A2_label": 16,
+      "A3_logistics": 0,
+      "A4_service": 4,
+      "A5_price": 3,
+      "OOD": 1
+    },
+    "A2_label": {
+      "A1_product": 2,
+      "A2_label": 21,
+      "A3_logistics": 0,
+      "A4_service": 0,
+      "A5_price": 0,
+      "OOD": 0
+    },
+    "A3_logistics": {
+      "A1_product": 7,
+      "A2_label": 0,
+      "A3_logistics": 46,
+      "A4_service": 0,
+      "A5_price": 0,
+      "OOD": 0
+    },
+    "A4_service": {
+      "A1_product": 2,
+      "A2_label": 1,
+      "A3_logistics": 0,
+      "A4_service": 28,
+      "A5_price": 0,
+      "OOD": 0
+    },
+    "A5_price": {
+      "A1_product": 3,
+      "A2_label": 0,
+      "A3_logistics": 0,
+      "A4_service": 0,
+      "A5_price": 14,
+      "OOD": 0
+    },
+    "OOD": {
+      "A1_product": 6,
+      "A2_label": 0,
+      "A3_logistics": 0,
+      "A4_service": 0,
+      "A5_price": 0,
+      "OOD": 8
+    }
+  },
+  "gold_source": "[original research workspace]/stepG_gold_labels_v1.csv",
+  "note": "Primary aspect claim lane per v3 §7.2; not T1 silver test."
+}

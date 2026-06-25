@@ -1,0 +1,15 @@
+{
+  "run_tag": "phase55_final_001",
+  "generated_at_utc": "2026-05-28T05:49:16.613183+00:00",
+  "min_n_guardrail": 20,
+  "rows_test_reviews": 64,
+  "cells_total": 9,
+  "cells_visible_after_guardrail": 1,
+  "outputs": {
+    "priority_matrix_cells_full_csv": "[original research workspace]/priority_matrix_cells_full.csv",
+    "priority_matrix_cells_guarded_csv": "[original research workspace]/priority_matrix_cells_guarded.csv",
+    "priority_matrix_pivot_n_reviews_csv": "[original research workspace]/priority_matrix_pivot_n_reviews.csv",
+    "priority_matrix_pivot_guarded_mean_prob_non_positive_csv": "[original research workspace]/priority_matrix_pivot_guarded_mean_prob_non_positive.csv",
+    "priority_matrix_pivot_guarded_true_non_positive_rate_csv": "[original research workspace]/priority_matrix_pivot_guarded_true_non_positive_rate.csv"
+  }
+}

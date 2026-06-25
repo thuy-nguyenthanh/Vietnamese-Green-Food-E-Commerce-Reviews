@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper."
+title: "Vietnamese Green-Food E-Commerce Reviews"
+type: dataset
+authors:
+  - family-names: Nguyen-Thanh
+    given-names: Thuy
+  - family-names: Le
+    given-names: Thi Nhung Nguyet
+  - family-names: Phan
+    given-names: Thanh Thao
+  - family-names: Truong
+    given-names: Thi Lan
+  - family-names: Pham
+    given-names: Thi Phuong
+  - family-names: Nguyen
+    given-names: Huu Quoc
+year: 2026
+repository-code: "https://github.com/thuy-nguyenthanh/Vietnamese-Green-Food-E-Commerce-Reviews"
+abstract: "Processed data and reproducibility code for audit-governed text analytics of Vietnamese green-food e-commerce reviews."
+keywords:
+  - Vietnamese text mining
+  - e-commerce reviews
+  - green food
+  - aspect-based sentiment analysis
+  - audit governance
+  - ViSoBERT
+  - BERTopic
+  - SHAP
+preferred-citation:
+  type: conference-paper
+  title: "Audit-Governed Text Analytics for SME Monitoring of Vietnamese Green-Food E-Commerce Reviews"
+  authors:
+    - family-names: Nguyen-Thanh
+      given-names: Thuy
+    - family-names: Le
+      given-names: Thi Nhung Nguyet
+    - family-names: Phan
+      given-names: Thanh Thao
+    - family-names: Truong
+      given-names: Thi Lan
+    - family-names: Pham
+      given-names: Thi Phuong
+    - family-names: Nguyen
+      given-names: Huu Quoc
+  conference:
+    name: "The International Conference on Management, Business, Economics, Law and Technology"
+  year: 2026
+
