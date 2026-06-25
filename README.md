@@ -127,7 +127,7 @@ https://github.com/thuy-nguyenthanh/Vietnamese-Green-Food-E-Commerce-Reviews
 If you use this repository, please cite the accompanying paper:
 
 ```text
-Nguyen-Thanh, T., Le, T. N. N., Phan, T. T., Truong, T. L.,
+Nguyen-Thanh Thuy, Le, T. N. N., Phan, T. T., Truong, T. L.,
 Pham, T. P., & Nguyen, H. Q. (2026).
 Audit-Governed Text Analytics for SME Monitoring of Vietnamese
 Green-Food E-Commerce Reviews. COMBELT-2026.
